@@ -5,8 +5,7 @@ import Import from './Data/Import'
 export default function App(){
     return(
         <div>
-            Choriyev Mirzohid...
-            <Import />  
+            Appp js
         </div>
     )
 }
